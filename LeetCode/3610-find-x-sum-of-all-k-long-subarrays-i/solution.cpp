@@ -1,39 +1,69 @@
 class Solution {
-public:
-    int Xsum(vector<int>nums,int start,int end,int x){
-        unordered_map<int,int>frq;
-        for(int i=start;i<end;i++){
-            frq[nums[i]]++;
-        }
-        int sum=0;
-        vector<pair<int,int>>count(frq.begin(),frq.end());
-        
-        //sorting a vector in descending order
-        //sort(nums.begin(),nums.end(),greater<int>())
-        //sorting a pair vector
-        sort(count.begin(),count.end(),[](auto &a,auto &b){
-            if(a.second==b.second){
-                return a.first>b.first;
-            }
-            return a.second>b.second;
-        });
-         for(int i=0;i<x &&i<count.size();i++){
-            sum+= count[i].first*count[i].second;
-         }
-           
-    return sum;
-        
-    }
     
-    vector<int> findXSum(vector<int>& nums, int k, int x) {
-        int n=nums.size();
-        vector<int>answer(n-k+1);
-        
-        int i=0;
-        while(i+k<=n){
-           answer[i]= Xsum(nums,i,i+k,x);
-           i++;
-        }
-        return answer;
-    }
+public:
+      vector<int> findXSum(vector<int>& nums, int k, int x) {
+            int n = nums.size();
+            vector<int> ret;
+            set<pair<int, int>> taken;
+            set<pair<int, int>, greater<pair<int, int>>> rem;
+            map<int, int> freq;
+            int ans = 0;
+            for (int i = 0; i < k; ++i) {
+                  freq[nums[i]]++;
+            }
+            for (auto& it : freq) {
+                  rem.insert({ it.second, it.first });
+            }
+            while (taken.size() < x && rem.size()) {
+                  auto tp = *rem.begin();
+                  ans += 1ll * tp.first * tp.second;
+                  taken.insert(tp);
+                  rem.erase(rem.begin());
+            }
+            ret = { ans };
+            for (int i = k; i < n; ++i) {
+                  if (nums[i] == nums[i - k]) {
+                        ret.push_back(ans);
+                        continue;
+                  }
+                  int cnt1 = freq[nums[i - k]];
+                  auto it1 = rem.find({ cnt1, nums[i - k] });
+                  if (it1 != rem.end()) {
+                        rem.erase(it1);
+                  }
+                  it1 = taken.find({ cnt1, nums[i - k] });
+                  if (it1 != taken.end()) {
+                        ans -= 1ll * cnt1 * nums[i - k];
+                        taken.erase(it1);
+                  }
+                  freq[nums[i - k]]--;
+                  rem.insert({ freq[nums[i - k]], nums[i - k] });
+                  int cnt = freq[nums[i]];
+                  auto it = rem.find({ cnt, nums[i] });
+                  if (it != rem.end()) {
+                        rem.erase(it);
+                  }
+                  it = taken.find({ cnt, nums[i] });
+                  if (it != taken.end()) {
+                        ans -= 1ll * cnt * nums[i];
+                        taken.erase(it);
+                  }
+
+                  if (taken.size()) {
+                        rem.insert(*taken.begin());
+                        ans -= 1ll * taken.begin()->first * taken.begin()->second;
+                        taken.erase(taken.begin());
+                  }
+                  rem.insert({ cnt + 1, nums[i] });
+                  freq[nums[i]]++;
+                  while (taken.size() < x && rem.size()) {
+                        auto tp = *rem.begin();
+                        ans += 1ll * tp.first * tp.second;
+                        taken.insert(tp);
+                        rem.erase(rem.begin());
+                  }
+                  ret.push_back(ans);
+            }
+            return ret;
+      }
 };
