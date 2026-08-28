@@ -24,62 +24,50 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: 'LeetCode'
 
-      - name: Format LeetCode Files & Remove Duplicates
+      - name: Format LeetCode Files & Add Links Inside Folders
         run: |
           python -c "
-          import os, shutil
+          import os
 
           leetcode_dir = 'LeetCode'
           if os.path.exists(leetcode_dir):
               for root, dirs, files in os.walk(leetcode_dir):
                   if root == leetcode_dir:
                       continue
+                  
+                  folder_name = os.path.basename(root)
+                  slug = folder_name.split('-', 1)[1] if '-' in folder_name else folder_name
+                  problem_name = slug.replace('-', ' ').title()
+                  problem_url = f'https://leetcode.com/problems/{slug}/'
+
                   for file in files:
                       file_path = os.path.join(root, file)
-                      rel_path = os.path.relpath(file_path, leetcode_dir)
-                      parts = rel_path.split(os.sep)
-                      
-                      if len(parts) >= 2:
-                          folder_name = parts[0]
-                          ext = os.path.splitext(file)[1]
-                          
-                          slug = folder_name.split('-', 1)[1] if '-' in folder_name else folder_name
-                          problem_name = slug.replace('-', '_').title()
-                          problem_url = f'https://leetcode.com/problems/{slug}/'
-                          
-                          new_filename = f'{problem_name}{ext}'
-                          new_filepath = os.path.join(leetcode_dir, new_filename)
-                          
-                          with open(file_path, 'r', encoding='utf-8') as f:
-                              content = f.read()
-                          
-                          if ext in ['.cpp', '.java', '.cs', '.rs', '.js', '.ts']:
-                              header = f'/*\n * Problem Name: {problem_name.replace(\"_\", \" \")}\n * Problem Link: {problem_url}\n */\n\n'
-                          elif ext == '.py':
-                              header = f'\"\"\"\nProblem Name: {problem_name.replace(\"_\", \" \")}\nProblem Link: {problem_url}\n\"\"\"\n\n'
-                          else:
-                              header = f'// Problem Link: {problem_url}\n\n'
-                          
-                          if not content.startswith('/*') and not content.startswith('\"\"\"'):
-                              content = header + content
-                          
-                          with open(new_filepath, 'w', encoding='utf-8') as f:
-                              f.write(content)
+                      ext = os.path.splitext(file)[1]
 
-              for item in os.listdir(leetcode_dir):
-                  item_path = os.path.join(leetcode_dir, item)
-                  if os.path.isdir(item_path):
-                      shutil.rmtree(item_path)
+                      with open(file_path, 'r', encoding='utf-8') as f:
+                          content = f.read()
+
+                      if ext in ['.cpp', '.java', '.cs', '.rs', '.js', '.ts']:
+                          header = f'/*\n * Problem Name: {problem_name}\n * Problem Link: {problem_url}\n */\n\n'
+                      elif ext == '.py':
+                          header = f'\"\"\"\nProblem Name: {problem_name}\nProblem Link: {problem_url}\n\"\"\"\n\n'
+                      else:
+                          header = f'// Problem Link: {problem_url}\n\n'
+
+                      if not content.startswith('/*') and not content.startswith('\"\"\"') and not content.startswith('// Problem Link'):
+                          content = header + content
+                          with open(file_path, 'w', encoding='utf-8') as f:
+                              f.write(content)
           "
 
       - name: Commit and Push LeetCode Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global http.postBuffer 524288000
           git add LeetCode/
           if ! git diff --staged --quiet; then
-            git commit -m "Sync LeetCode solutions (No duplicates)"
+            git commit -m "Sync LeetCode solutions with individual folders and links"
             git pull origin main --rebase || true
             git push
           fi
