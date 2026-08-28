@@ -1,0 +1,75 @@
+name: Fix and Organize LeetCode Structure
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restructure Folders
+        run: |
+          python -c "
+          import os, shutil
+
+          leetcode_dir = 'LeetCode'
+          if os.path.exists(leetcode_dir):
+              subitems = os.listdir(leetcode_dir)
+              for item in subitems:
+                  item_path = os.path.join(leetcode_dir, item)
+                  if os.path.isdir(item_path):
+                      parts = item.split('-', 1)
+                      prob_num = parts[0] if len(parts) > 1 and parts[0].isdigit() else ''
+                      slug = parts[1] if len(parts) > 1 and parts[0].isdigit() else item
+                      
+                      title_name = slug.replace('-', ' ').title()
+                      display_title = f'{prob_num}. {title_name}' if prob_num else title_name
+                      problem_url = f'https://leetcode.com/problems/{slug}/'
+
+                      clean_folder_name = f'{prob_num}_{slug.replace(\"-\", \"_\")}' if prob_num else slug.replace('-', '_')
+                      target_folder = os.path.join(leetcode_dir, clean_folder_name)
+                      
+                      if item_path != target_folder:
+                          os.makedirs(target_folder, exist_ok=True)
+                          for f_name in os.listdir(item_path):
+                              if f_name.startswith('README'):
+                                  continue
+                              old_file_path = os.path.join(item_path, f_name)
+                              if os.path.isfile(old_file_path):
+                                  ext = os.path.splitext(f_name)[1]
+                                  new_file_path = os.path.join(target_folder, f'solution{ext}')
+                                  shutil.copy(old_file_path, new_file_path)
+                          
+                          ext = '.cpp'
+                          for f_check in os.listdir(target_folder):
+                              if f_check.startswith('solution'):
+                                  ext = os.path.splitext(f_check)[1]
+                                  break
+                                  
+                          readme_path = os.path.join(target_folder, 'README.md')
+                          readme_content = f'# {display_title}\n\n🔗 **Problem Link:** [{display_title}]({problem_url})\n\n---\n\n### 💡 Solution\nCheck the [`solution{ext}`](./solution{ext}) file for the complete code.'
+                          with open(readme_path, 'w', encoding='utf-8') as rf:
+                              rf.write(readme_content)
+                              
+                          shutil.rmtree(item_path)
+          "
+
+      - name: Commit Fixed Structure
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global http.postBuffer 524288000
+          git add LeetCode/
+          if ! git diff --staged --quiet; then
+            git commit -m "Fix and organize LeetCode structure"
+            git pull origin main --rebase || true
+            git push
+          fi
