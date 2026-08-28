@@ -3,7 +3,7 @@ name: Sync LeetCode Solutions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 18 * * *' # يشتغل يومياً الساعة 9:00 مساءً بتوقيت مصر
 
 permissions:
   contents: write
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Sync LeetCode Submissions
         uses: joshcai/leetcode-sync@master
@@ -22,7 +24,7 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: 'LeetCode'
 
-      - name: Format LeetCode Files & Add Links
+      - name: Format LeetCode Files & Remove Duplicates
         run: |
           python -c "
           import os, shutil
@@ -30,6 +32,8 @@ jobs:
           leetcode_dir = 'LeetCode'
           if os.path.exists(leetcode_dir):
               for root, dirs, files in os.walk(leetcode_dir):
+                  if root == leetcode_dir:
+                      continue
                   for file in files:
                       file_path = os.path.join(root, file)
                       rel_path = os.path.relpath(file_path, leetcode_dir)
@@ -71,6 +75,11 @@ jobs:
       - name: Commit and Push LeetCode Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]"
+          git config --global http.postBuffer 524288000
           git add LeetCode/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Format LeetCode files with problem links" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "Sync LeetCode solutions (No duplicates)"
+            git pull origin main --rebase || true
+            git push
+          fi
