@@ -1,6 +1,6 @@
-# 3219. Make Lexicographically Smallest Array By Swapping Elements
+# 3219_Make_Lexicographically_Smallest_Array_By_Swapping_Elements
 
-🔗 **Problem Link:** [3219. Make Lexicographically Smallest Array By Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)
+🔗 **Problem Link:** [3219_Make_Lexicographically_Smallest_Array_By_Swapping_Elements](https://leetcode.com/problems/3219_make_lexicographically_smallest_array_by_swapping_elements/)
 
 ---
 
