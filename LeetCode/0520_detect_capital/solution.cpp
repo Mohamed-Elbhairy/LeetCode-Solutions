@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0520. Detect Capital
+ * Problem Link: https://leetcode.com/problems/detect-capital/
+ */
+
 class Solution {
 public:
     bool detectCapitalUse(string word) {

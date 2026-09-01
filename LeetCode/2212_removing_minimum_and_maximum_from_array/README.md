@@ -1,6 +1,6 @@
-# 2212. Removing Minimum And Maximum From Array
+# 2212_Removing_Minimum_And_Maximum_From_Array
 
-🔗 **Problem Link:** [2212. Removing Minimum And Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
+🔗 **Problem Link:** [2212_Removing_Minimum_And_Maximum_From_Array](https://leetcode.com/problems/2212_removing_minimum_and_maximum_from_array/)
 
 ---
 

@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0373. Find K Pairs With Smallest Sums
+ * Problem Link: https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+ */
+
 class Solution {
 public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {

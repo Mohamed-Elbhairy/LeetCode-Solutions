@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0482. License Key Formatting
+ * Problem Link: https://leetcode.com/problems/license-key-formatting/
+ */
+
 class Solution {
 public:
     string licenseKeyFormatting(string s, int k) {

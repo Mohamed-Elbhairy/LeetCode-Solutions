@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1479. Construct Target Array With Multiple Sums
+ * Problem Link: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
+ */
+
 class Solution {
 public:
     bool isPossible(vector<int>& target) {

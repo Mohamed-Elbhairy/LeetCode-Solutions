@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 2182. Find The Minimum And Maximum Number Of Nodes Between Critical Points
+ * Problem Link: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+ */
+
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
