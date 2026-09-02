@@ -1,6 +1,6 @@
-# 0373. Find K Pairs With Smallest Sums
+# 0373_Find_K_Pairs_With_Smallest_Sums
 
-🔗 **Problem Link:** [0373. Find K Pairs With Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+🔗 **Problem Link:** [0373_Find_K_Pairs_With_Smallest_Sums](https://leetcode.com/problems/0373_find_k_pairs_with_smallest_sums/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 1479. Construct Target Array With Multiple Sums
+# 1479_Construct_Target_Array_With_Multiple_Sums
 
-🔗 **Problem Link:** [1479. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+🔗 **Problem Link:** [1479_Construct_Target_Array_With_Multiple_Sums](https://leetcode.com/problems/1479_construct_target_array_with_multiple_sums/)
 
 ---
 

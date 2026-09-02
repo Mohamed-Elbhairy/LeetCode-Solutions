@@ -1,6 +1,6 @@
-# 0520. Detect Capital
+# 0520_Detect_Capital
 
-🔗 **Problem Link:** [0520. Detect Capital](https://leetcode.com/problems/detect-capital/)
+🔗 **Problem Link:** [0520_Detect_Capital](https://leetcode.com/problems/0520_detect_capital/)
 
 ---
 

@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3870. Minimum Moves To Clean The Classroom
+ * Problem Link: https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+ */
+
 class Solution {
 public:
     int minMoves(vector<string>& classroom, int energy) {

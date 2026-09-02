@@ -1,6 +1,6 @@
-# 2182. Find The Minimum And Maximum Number Of Nodes Between Critical Points
+# 2182_Find_The_Minimum_And_Maximum_Number_Of_Nodes_Between_Critical_Points
 
-🔗 **Problem Link:** [2182. Find The Minimum And Maximum Number Of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)
+🔗 **Problem Link:** [2182_Find_The_Minimum_And_Maximum_Number_Of_Nodes_Between_Critical_Points](https://leetcode.com/problems/2182_find_the_minimum_and_maximum_number_of_nodes_between_critical_points/)
 
 ---
 
