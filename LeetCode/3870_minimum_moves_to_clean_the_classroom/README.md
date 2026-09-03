@@ -1,6 +1,6 @@
-# 3870. Minimum Moves To Clean The Classroom
+# 3870_Minimum_Moves_To_Clean_The_Classroom
 
-🔗 **Problem Link:** [3870. Minimum Moves To Clean The Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/)
+🔗 **Problem Link:** [3870_Minimum_Moves_To_Clean_The_Classroom](https://leetcode.com/problems/3870_minimum_moves_to_clean_the_classroom/)
 
 ---
 
