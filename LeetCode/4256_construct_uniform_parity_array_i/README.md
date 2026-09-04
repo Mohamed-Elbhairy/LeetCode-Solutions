@@ -1,6 +1,6 @@
-# 4256. Construct Uniform Parity Array I
+# 4256_Construct_Uniform_Parity_Array_I
 
-🔗 **Problem Link:** [4256. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/)
+🔗 **Problem Link:** [4256_Construct_Uniform_Parity_Array_I](https://leetcode.com/problems/4256_construct_uniform_parity_array_i/)
 
 ---
 

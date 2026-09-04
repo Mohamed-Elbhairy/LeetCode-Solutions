@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4258. Construct Uniform Parity Array Ii
+ * Problem Link: https://leetcode.com/problems/construct-uniform-parity-array-ii/
+ */
+
 class Solution {
     bool canparity(vector<int>& v, int& mn) {
         bool odd = true, even = true;
