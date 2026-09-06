@@ -1,6 +1,6 @@
-# 4284. Smallest Stable Index I
+# 4284_Smallest_Stable_Index_I
 
-🔗 **Problem Link:** [4284. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
+🔗 **Problem Link:** [4284_Smallest_Stable_Index_I](https://leetcode.com/problems/4284_smallest_stable_index_i/)
 
 ---
 

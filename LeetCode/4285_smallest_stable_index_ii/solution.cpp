@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4285. Smallest Stable Index Ii
+ * Problem Link: https://leetcode.com/problems/smallest-stable-index-ii/
+ */
+
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
