@@ -1,6 +1,6 @@
-# 4285. Smallest Stable Index Ii
+# 4285_Smallest_Stable_Index_Ii
 
-🔗 **Problem Link:** [4285. Smallest Stable Index Ii](https://leetcode.com/problems/smallest-stable-index-ii/)
+🔗 **Problem Link:** [4285_Smallest_Stable_Index_Ii](https://leetcode.com/problems/4285_smallest_stable_index_ii/)
 
 ---
 
