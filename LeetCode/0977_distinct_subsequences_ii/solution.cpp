@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0977. Distinct Subsequences Ii
+ * Problem Link: https://leetcode.com/problems/distinct-subsequences-ii/
+ */
+
 class Solution {
     static constexpr int MOD = 1e9 + 7;
 

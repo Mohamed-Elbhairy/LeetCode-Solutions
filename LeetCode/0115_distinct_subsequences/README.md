@@ -1,6 +1,6 @@
-# 0115. Distinct Subsequences
+# 0115_Distinct_Subsequences
 
-🔗 **Problem Link:** [0115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+🔗 **Problem Link:** [0115_Distinct_Subsequences](https://leetcode.com/problems/0115_distinct_subsequences/)
 
 ---
 
