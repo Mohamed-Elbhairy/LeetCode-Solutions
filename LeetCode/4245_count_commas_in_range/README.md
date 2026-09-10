@@ -1,6 +1,6 @@
-# 4245. Count Commas In Range
+# 4245_Count_Commas_In_Range
 
-🔗 **Problem Link:** [4245. Count Commas In Range](https://leetcode.com/problems/count-commas-in-range/)
+🔗 **Problem Link:** [4245_Count_Commas_In_Range](https://leetcode.com/problems/4245_count_commas_in_range/)
 
 ---
 

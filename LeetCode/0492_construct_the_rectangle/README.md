@@ -1,6 +1,6 @@
-# 0492. Construct The Rectangle
+# 0492_Construct_The_Rectangle
 
-🔗 **Problem Link:** [0492. Construct The Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
+🔗 **Problem Link:** [0492_Construct_The_Rectangle](https://leetcode.com/problems/0492_construct_the_rectangle/)
 
 ---
 
