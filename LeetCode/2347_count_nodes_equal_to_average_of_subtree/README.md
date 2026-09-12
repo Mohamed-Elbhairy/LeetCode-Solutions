@@ -1,6 +1,6 @@
-# 2347. Count Nodes Equal To Average Of Subtree
+# 2347_Count_Nodes_Equal_To_Average_Of_Subtree
 
-🔗 **Problem Link:** [2347. Count Nodes Equal To Average Of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+🔗 **Problem Link:** [2347_Count_Nodes_Equal_To_Average_Of_Subtree](https://leetcode.com/problems/2347_count_nodes_equal_to_average_of_subtree/)
 
 ---
 

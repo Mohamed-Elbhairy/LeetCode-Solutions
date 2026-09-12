@@ -1,6 +1,6 @@
-# 1157. Insufficient Nodes In Root To Leaf Paths
+# 1157_Insufficient_Nodes_In_Root_To_Leaf_Paths
 
-🔗 **Problem Link:** [1157. Insufficient Nodes In Root To Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
+🔗 **Problem Link:** [1157_Insufficient_Nodes_In_Root_To_Leaf_Paths](https://leetcode.com/problems/1157_insufficient_nodes_in_root_to_leaf_paths/)
 
 ---
 
