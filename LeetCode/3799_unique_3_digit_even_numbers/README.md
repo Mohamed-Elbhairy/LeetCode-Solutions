@@ -1,6 +1,6 @@
-# 3799. Unique 3 Digit Even Numbers
+# 3799_Unique_3_Digit_Even_Numbers
 
-🔗 **Problem Link:** [3799. Unique 3 Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)
+🔗 **Problem Link:** [3799_Unique_3_Digit_Even_Numbers](https://leetcode.com/problems/3799_unique_3_digit_even_numbers/)
 
 ---
 

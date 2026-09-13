@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3562. Maximum Score Of Non Overlapping Intervals
+ * Problem Link: https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
+ */
+
 class Solution {
     vector<tuple<int, int, int, int>> v;
     vector<vector<pair<long long, vector<int>>>> dp; // dp[idx][rem]
