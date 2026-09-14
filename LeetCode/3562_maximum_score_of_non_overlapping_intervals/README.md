@@ -1,6 +1,6 @@
-# 3562. Maximum Score Of Non Overlapping Intervals
+# 3562_Maximum_Score_Of_Non_Overlapping_Intervals
 
-🔗 **Problem Link:** [3562. Maximum Score Of Non Overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)
+🔗 **Problem Link:** [3562_Maximum_Score_Of_Non_Overlapping_Intervals](https://leetcode.com/problems/3562_maximum_score_of_non_overlapping_intervals/)
 
 ---
 
