@@ -1,6 +1,6 @@
-# 0864. Image Overlap
+# 0864_Image_Overlap
 
-🔗 **Problem Link:** [0864. Image Overlap](https://leetcode.com/problems/image-overlap/)
+🔗 **Problem Link:** [0864_Image_Overlap](https://leetcode.com/problems/0864_image_overlap/)
 
 ---
 
