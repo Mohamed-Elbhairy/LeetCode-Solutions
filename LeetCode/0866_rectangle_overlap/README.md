@@ -1,6 +1,6 @@
-# 0866. Rectangle Overlap
+# 0866_Rectangle_Overlap
 
-🔗 **Problem Link:** [0866. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
+🔗 **Problem Link:** [0866_Rectangle_Overlap](https://leetcode.com/problems/0866_rectangle_overlap/)
 
 ---
 
