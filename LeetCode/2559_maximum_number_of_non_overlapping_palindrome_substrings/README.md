@@ -1,6 +1,6 @@
-# 2559. Maximum Number Of Non Overlapping Palindrome Substrings
+# 2559_Maximum_Number_Of_Non_Overlapping_Palindrome_Substrings
 
-🔗 **Problem Link:** [2559. Maximum Number Of Non Overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)
+🔗 **Problem Link:** [2559_Maximum_Number_Of_Non_Overlapping_Palindrome_Substrings](https://leetcode.com/problems/2559_maximum_number_of_non_overlapping_palindrome_substrings/)
 
 ---
 
