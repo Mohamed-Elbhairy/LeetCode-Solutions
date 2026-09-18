@@ -1,6 +1,6 @@
-# 1725. Number Of Sets Of K Non Overlapping Line Segments
+# 1725_Number_Of_Sets_Of_K_Non_Overlapping_Line_Segments
 
-🔗 **Problem Link:** [1725. Number Of Sets Of K Non Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/)
+🔗 **Problem Link:** [1725_Number_Of_Sets_Of_K_Non_Overlapping_Line_Segments](https://leetcode.com/problems/1725_number_of_sets_of_k_non_overlapping_line_segments/)
 
 ---
 
