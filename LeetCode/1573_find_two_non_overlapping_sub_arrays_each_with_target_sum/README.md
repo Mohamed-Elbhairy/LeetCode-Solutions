@@ -1,6 +1,6 @@
-# 1573. Find Two Non Overlapping Sub Arrays Each With Target Sum
+# 1573_Find_Two_Non_Overlapping_Sub_Arrays_Each_With_Target_Sum
 
-🔗 **Problem Link:** [1573. Find Two Non Overlapping Sub Arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
+🔗 **Problem Link:** [1573_Find_Two_Non_Overlapping_Sub_Arrays_Each_With_Target_Sum](https://leetcode.com/problems/1573_find_two_non_overlapping_sub_arrays_each_with_target_sum/)
 
 ---
 
