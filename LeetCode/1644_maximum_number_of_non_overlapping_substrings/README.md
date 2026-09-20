@@ -1,6 +1,6 @@
-# 1644. Maximum Number Of Non Overlapping Substrings
+# 1644_Maximum_Number_Of_Non_Overlapping_Substrings
 
-🔗 **Problem Link:** [1644. Maximum Number Of Non Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
+🔗 **Problem Link:** [1644_Maximum_Number_Of_Non_Overlapping_Substrings](https://leetcode.com/problems/1644_maximum_number_of_non_overlapping_substrings/)
 
 ---
 
