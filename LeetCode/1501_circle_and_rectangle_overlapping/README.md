@@ -1,6 +1,6 @@
-# 1501. Circle And Rectangle Overlapping
+# 1501_Circle_And_Rectangle_Overlapping
 
-🔗 **Problem Link:** [1501. Circle And Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
+🔗 **Problem Link:** [1501_Circle_And_Rectangle_Overlapping](https://leetcode.com/problems/1501_circle_and_rectangle_overlapping/)
 
 ---
 
