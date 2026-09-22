@@ -1,6 +1,6 @@
-# 3811. Reverse Degree Of A String
+# 3811_Reverse_Degree_Of_A_String
 
-🔗 **Problem Link:** [3811. Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string/)
+🔗 **Problem Link:** [3811_Reverse_Degree_Of_A_String](https://leetcode.com/problems/3811_reverse_degree_of_a_string/)
 
 ---
 

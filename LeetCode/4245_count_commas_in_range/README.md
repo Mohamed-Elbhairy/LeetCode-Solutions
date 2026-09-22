@@ -5,4 +5,4 @@
 ---
 
 ### 💡 Solution
-Check the [](./solution.cpp) file for the complete code.
+Check the [](./solution.java) file for the complete code.

@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3831. Find X Value Of Array I
+ * Problem Link: https://leetcode.com/problems/find-x-value-of-array-i/
+ */
+
 class Solution {
 public:
     vector<long long> resultArray(vector<int>& A, int k) {
