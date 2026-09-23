@@ -1,6 +1,6 @@
-# 3831. Find X Value Of Array I
+# 3831_Find_X_Value_Of_Array_I
 
-🔗 **Problem Link:** [3831. Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/)
+🔗 **Problem Link:** [3831_Find_X_Value_Of_Array_I](https://leetcode.com/problems/3831_find_x_value_of_array_i/)
 
 ---
 
