@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1776. Minimum Operations To Reduce X To Zero
+ * Problem Link: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+ */
+
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
