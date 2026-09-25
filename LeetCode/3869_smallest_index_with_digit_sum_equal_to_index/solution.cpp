@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3869. Smallest Index With Digit Sum Equal To Index
+ * Problem Link: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
+ */
+
 class Solution {
 public:
     int smallestIndex(vector<int>& nums) {

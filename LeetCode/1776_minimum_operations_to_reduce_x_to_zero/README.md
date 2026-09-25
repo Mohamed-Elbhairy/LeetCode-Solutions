@@ -1,6 +1,6 @@
-# 1776. Minimum Operations To Reduce X To Zero
+# 1776_Minimum_Operations_To_Reduce_X_To_Zero
 
-🔗 **Problem Link:** [1776. Minimum Operations To Reduce X To Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+🔗 **Problem Link:** [1776_Minimum_Operations_To_Reduce_X_To_Zero](https://leetcode.com/problems/1776_minimum_operations_to_reduce_x_to_zero/)
 
 ---
 
