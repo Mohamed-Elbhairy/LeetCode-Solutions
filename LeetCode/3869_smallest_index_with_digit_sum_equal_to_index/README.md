@@ -1,6 +1,6 @@
-# 3869. Smallest Index With Digit Sum Equal To Index
+# 3869_Smallest_Index_With_Digit_Sum_Equal_To_Index
 
-🔗 **Problem Link:** [3869. Smallest Index With Digit Sum Equal To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
+🔗 **Problem Link:** [3869_Smallest_Index_With_Digit_Sum_Equal_To_Index](https://leetcode.com/problems/3869_smallest_index_with_digit_sum_equal_to_index/)
 
 ---
 
