@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1934. Evaluate The Bracket Pairs Of A String
+ * Problem Link: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
+ */
+
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {

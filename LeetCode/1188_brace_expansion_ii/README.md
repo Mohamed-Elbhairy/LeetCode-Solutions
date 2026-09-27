@@ -1,6 +1,6 @@
-# 1188. Brace Expansion Ii
+# 1188_Brace_Expansion_Ii
 
-🔗 **Problem Link:** [1188. Brace Expansion Ii](https://leetcode.com/problems/brace-expansion-ii/)
+🔗 **Problem Link:** [1188_Brace_Expansion_Ii](https://leetcode.com/problems/1188_brace_expansion_ii/)
 
 ---
 
