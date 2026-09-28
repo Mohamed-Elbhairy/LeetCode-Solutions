@@ -1,6 +1,6 @@
-# 1298. Reverse Substrings Between Each Pair Of Parentheses
+# 1298_Reverse_Substrings_Between_Each_Pair_Of_Parentheses
 
-🔗 **Problem Link:** [1298. Reverse Substrings Between Each Pair Of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+🔗 **Problem Link:** [1298_Reverse_Substrings_Between_Each_Pair_Of_Parentheses](https://leetcode.com/problems/1298_reverse_substrings_between_each_pair_of_parentheses/)
 
 ---
 

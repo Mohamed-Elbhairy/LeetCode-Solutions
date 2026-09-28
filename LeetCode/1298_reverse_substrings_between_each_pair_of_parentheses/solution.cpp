@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1298_Reverse_Substrings_Between_Each_Pair_Of_Parentheses
+ * Problem Link: https://leetcode.com/problems/1298_reverse_substrings_between_each_pair_of_parentheses/
+ */
+
 class Solution {
 public:
     string reverseParentheses(auto& s) {

@@ -1,6 +1,6 @@
-# 1934. Evaluate The Bracket Pairs Of A String
+# 1934_Evaluate_The_Bracket_Pairs_Of_A_String
 
-🔗 **Problem Link:** [1934. Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)
+🔗 **Problem Link:** [1934_Evaluate_The_Bracket_Pairs_Of_A_String](https://leetcode.com/problems/1934_evaluate_the_bracket_pairs_of_a_string/)
 
 ---
 
