@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0020. Valid Parentheses
+ * Problem Link: https://leetcode.com/problems/valid-parentheses/
+ */
+
 class Solution {
     bool isOpen(char c) { return c == '(' || c == '{' || c == '['; }
     char rev(char c) {
