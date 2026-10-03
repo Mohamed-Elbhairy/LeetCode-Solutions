@@ -1,6 +1,6 @@
-# 0020. Valid Parentheses
+# 0020_Valid_Parentheses
 
-🔗 **Problem Link:** [0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+🔗 **Problem Link:** [0020_Valid_Parentheses](https://leetcode.com/problems/0020_valid_parentheses/)
 
 ---
 

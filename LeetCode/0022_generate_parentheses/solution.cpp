@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0022. Generate Parentheses
+ * Problem Link: https://leetcode.com/problems/generate-parentheses/
+ */
+
 class Solution {
     vector<string> ret;
     void rec(int n, int cnt, string& s) {
