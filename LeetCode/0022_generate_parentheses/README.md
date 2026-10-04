@@ -1,6 +1,6 @@
-# 0022. Generate Parentheses
+# 0022_Generate_Parentheses
 
-🔗 **Problem Link:** [0022. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+🔗 **Problem Link:** [0022_Generate_Parentheses](https://leetcode.com/problems/0022_generate_parentheses/)
 
 ---
 

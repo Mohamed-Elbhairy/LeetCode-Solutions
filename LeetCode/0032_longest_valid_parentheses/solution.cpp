@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0032. Longest Valid Parentheses
+ * Problem Link: https://leetcode.com/problems/longest-valid-parentheses/
+ */
+
 constexpr int N=3e4;
 int st[N], top=-1;
 int dp[N];
