@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 0678. Valid Parenthesis String
+ * Problem Link: https://leetcode.com/problems/valid-parenthesis-string/
+ */
+
 class Solution {
 public:
     bool checkValidString(string s) {

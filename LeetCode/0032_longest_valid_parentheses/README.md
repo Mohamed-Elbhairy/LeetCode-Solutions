@@ -1,6 +1,6 @@
-# 0032. Longest Valid Parentheses
+# 0032_Longest_Valid_Parentheses
 
-🔗 **Problem Link:** [0032. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+🔗 **Problem Link:** [0032_Longest_Valid_Parentheses](https://leetcode.com/problems/0032_longest_valid_parentheses/)
 
 ---
 
