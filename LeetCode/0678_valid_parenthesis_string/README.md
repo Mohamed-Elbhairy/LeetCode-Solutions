@@ -1,6 +1,6 @@
-# 0678. Valid Parenthesis String
+# 0678_Valid_Parenthesis_String
 
-🔗 **Problem Link:** [0678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+🔗 **Problem Link:** [0678_Valid_Parenthesis_String](https://leetcode.com/problems/0678_valid_parenthesis_string/)
 
 ---
 
