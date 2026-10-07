@@ -1,6 +1,6 @@
-# 0886. Score Of Parentheses
+# 0886_Score_Of_Parentheses
 
-🔗 **Problem Link:** [0886. Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+🔗 **Problem Link:** [0886_Score_Of_Parentheses](https://leetcode.com/problems/0886_score_of_parentheses/)
 
 ---
 
