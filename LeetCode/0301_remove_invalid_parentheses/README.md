@@ -1,6 +1,6 @@
-# 0301. Remove Invalid Parentheses
+# 0301_Remove_Invalid_Parentheses
 
-🔗 **Problem Link:** [0301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+🔗 **Problem Link:** [0301_Remove_Invalid_Parentheses](https://leetcode.com/problems/0301_remove_invalid_parentheses/)
 
 ---
 

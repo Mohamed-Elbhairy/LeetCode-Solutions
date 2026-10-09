@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1078. Remove Outermost Parentheses
+ * Problem Link: https://leetcode.com/problems/remove-outermost-parentheses/
+ */
+
 class Solution {
 public:
     string removeOuterParentheses(string& s) {
