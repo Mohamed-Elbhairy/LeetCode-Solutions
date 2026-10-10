@@ -1,6 +1,6 @@
-# 1078. Remove Outermost Parentheses
+# 1078_Remove_Outermost_Parentheses
 
-🔗 **Problem Link:** [1078. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+🔗 **Problem Link:** [1078_Remove_Outermost_Parentheses](https://leetcode.com/problems/1078_remove_outermost_parentheses/)
 
 ---
 

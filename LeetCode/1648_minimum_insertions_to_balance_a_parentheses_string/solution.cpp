@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1648. Minimum Insertions To Balance A Parentheses String
+ * Problem Link: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+ */
+
 class Solution {
 public:
     int minInsertions(string& s) {
