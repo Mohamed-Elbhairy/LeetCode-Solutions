@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 2844. Sum Of Squares Of Special Elements 
+ * Problem Link: https://leetcode.com/problems/sum-of-squares-of-special-elements-/
+ */
+
 class Solution {
 public:
     int sumOfSquares(vector<int>& nums) {

@@ -1,6 +1,6 @@
-# 2418. Minimum Sum Of Squared Difference
+# 2418_Minimum_Sum_Of_Squared_Difference
 
-🔗 **Problem Link:** [2418. Minimum Sum Of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/)
+🔗 **Problem Link:** [2418_Minimum_Sum_Of_Squared_Difference](https://leetcode.com/problems/2418_minimum_sum_of_squared_difference/)
 
 ---
 
