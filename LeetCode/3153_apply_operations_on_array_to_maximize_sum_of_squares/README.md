@@ -1,6 +1,6 @@
-# 3153. Apply Operations On Array To Maximize Sum Of Squares
+# 3153_Apply_Operations_On_Array_To_Maximize_Sum_Of_Squares
 
-🔗 **Problem Link:** [3153. Apply Operations On Array To Maximize Sum Of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)
+🔗 **Problem Link:** [3153_Apply_Operations_On_Array_To_Maximize_Sum_Of_Squares](https://leetcode.com/problems/3153_apply_operations_on_array_to_maximize_sum_of_squares/)
 
 ---
 

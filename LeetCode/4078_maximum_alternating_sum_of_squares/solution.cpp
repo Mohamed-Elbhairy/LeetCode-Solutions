@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4078. Maximum Alternating Sum Of Squares
+ * Problem Link: https://leetcode.com/problems/maximum-alternating-sum-of-squares/
+ */
+
 class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
