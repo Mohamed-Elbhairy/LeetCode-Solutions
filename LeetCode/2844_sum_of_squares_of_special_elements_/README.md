@@ -1,6 +1,6 @@
-# 2844. Sum Of Squares Of Special Elements 
+# 2844_Sum_Of_Squares_Of_Special_Elements_
 
-🔗 **Problem Link:** [2844. Sum Of Squares Of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements-/)
+🔗 **Problem Link:** [2844_Sum_Of_Squares_Of_Special_Elements_](https://leetcode.com/problems/2844_sum_of_squares_of_special_elements_/)
 
 ---
 

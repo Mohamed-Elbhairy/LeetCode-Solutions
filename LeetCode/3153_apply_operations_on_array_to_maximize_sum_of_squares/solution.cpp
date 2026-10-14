@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3153. Apply Operations On Array To Maximize Sum Of Squares
+ * Problem Link: https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
+ */
+
 class Solution {
 public:
     int maxSum(vector<int>& nums, int k) {
