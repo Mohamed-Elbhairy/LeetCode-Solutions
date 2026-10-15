@@ -1,6 +1,6 @@
-# 4078. Maximum Alternating Sum Of Squares
+# 4078_Maximum_Alternating_Sum_Of_Squares
 
-🔗 **Problem Link:** [4078. Maximum Alternating Sum Of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/)
+🔗 **Problem Link:** [4078_Maximum_Alternating_Sum_Of_Squares](https://leetcode.com/problems/4078_maximum_alternating_sum_of_squares/)
 
 ---
 

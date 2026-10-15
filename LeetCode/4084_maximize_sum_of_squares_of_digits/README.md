@@ -1,6 +1,6 @@
-# 4084. Maximize Sum Of Squares Of Digits
+# 4084_Maximize_Sum_Of_Squares_Of_Digits
 
-🔗 **Problem Link:** [4084. Maximize Sum Of Squares Of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/)
+🔗 **Problem Link:** [4084_Maximize_Sum_Of_Squares_Of_Digits](https://leetcode.com/problems/4084_maximize_sum_of_squares_of_digits/)
 
 ---
 
