@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3163. Subarrays Distinct Element Sum Of Squares I
+ * Problem Link: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+ */
+
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
