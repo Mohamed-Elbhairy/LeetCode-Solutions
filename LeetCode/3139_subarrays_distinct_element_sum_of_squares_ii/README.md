@@ -1,6 +1,6 @@
-# 3139. Subarrays Distinct Element Sum Of Squares Ii
+# 3139_Subarrays_Distinct_Element_Sum_Of_Squares_Ii
 
-🔗 **Problem Link:** [3139. Subarrays Distinct Element Sum Of Squares Ii](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)
+🔗 **Problem Link:** [3139_Subarrays_Distinct_Element_Sum_Of_Squares_Ii](https://leetcode.com/problems/3139_subarrays_distinct_element_sum_of_squares_ii/)
 
 ---
 

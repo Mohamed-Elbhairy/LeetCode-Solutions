@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3847. Minimum Swaps To Sort By Digit Sum
+ * Problem Link: https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/
+ */
+
 class Solution {
 public:
     int minSwaps(vector<int>& nums) {
