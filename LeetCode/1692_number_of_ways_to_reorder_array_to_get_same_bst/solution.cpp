@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1692. Number Of Ways To Reorder Array To Get Same Bst
+ * Problem Link: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+ */
+
 class Solution {
 public:
     int numOfWays(vector<int>& nums) {

@@ -1,6 +1,6 @@
-# 3847. Minimum Swaps To Sort By Digit Sum
+# 3847_Minimum_Swaps_To_Sort_By_Digit_Sum
 
-🔗 **Problem Link:** [3847. Minimum Swaps To Sort By Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/)
+🔗 **Problem Link:** [3847_Minimum_Swaps_To_Sort_By_Digit_Sum](https://leetcode.com/problems/3847_minimum_swaps_to_sort_by_digit_sum/)
 
 ---
 
