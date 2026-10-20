@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 2210. Find Target Indices After Sorting Array
+ * Problem Link: https://leetcode.com/problems/find-target-indices-after-sorting-array/
+ */
+
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {

@@ -1,6 +1,6 @@
-# 1692. Number Of Ways To Reorder Array To Get Same Bst
+# 1692_Number_Of_Ways_To_Reorder_Array_To_Get_Same_Bst
 
-🔗 **Problem Link:** [1692. Number Of Ways To Reorder Array To Get Same Bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
+🔗 **Problem Link:** [1692_Number_Of_Ways_To_Reorder_Array_To_Get_Same_Bst](https://leetcode.com/problems/1692_number_of_ways_to_reorder_array_to_get_same_bst/)
 
 ---
 
