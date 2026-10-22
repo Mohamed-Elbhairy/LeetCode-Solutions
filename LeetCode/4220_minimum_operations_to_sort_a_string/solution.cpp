@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4220. Minimum Operations To Sort A String
+ * Problem Link: https://leetcode.com/problems/minimum-operations-to-sort-a-string/
+ */
+
 class Solution {
 public:
     int minOperations(auto& s) {
