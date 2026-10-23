@@ -1,6 +1,6 @@
-# 4220. Minimum Operations To Sort A String
+# 4220_Minimum_Operations_To_Sort_A_String
 
-🔗 **Problem Link:** [4220. Minimum Operations To Sort A String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/)
+🔗 **Problem Link:** [4220_Minimum_Operations_To_Sort_A_String](https://leetcode.com/problems/4220_minimum_operations_to_sort_a_string/)
 
 ---
 

@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4184. Minimum Operations To Sort A Permutation
+ * Problem Link: https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
+ */
+
 class Solution {
 public:
     int minOperations(auto& A) {
