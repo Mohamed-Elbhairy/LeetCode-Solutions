@@ -1,6 +1,6 @@
-# 4184. Minimum Operations To Sort A Permutation
+# 4184_Minimum_Operations_To_Sort_A_Permutation
 
-🔗 **Problem Link:** [4184. Minimum Operations To Sort A Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/)
+🔗 **Problem Link:** [4184_Minimum_Operations_To_Sort_A_Permutation](https://leetcode.com/problems/4184_minimum_operations_to_sort_a_permutation/)
 
 ---
 
