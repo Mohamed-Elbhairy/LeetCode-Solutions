@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 2496. Count Days Spent Together
+ * Problem Link: https://leetcode.com/problems/count-days-spent-together/
+ */
+
 class Solution {
 private:
     int dateToDays(string s) {

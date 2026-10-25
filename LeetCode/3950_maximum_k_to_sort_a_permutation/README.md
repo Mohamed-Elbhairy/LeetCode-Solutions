@@ -1,6 +1,6 @@
-# 3950. Maximum K To Sort A Permutation
+# 3950_Maximum_K_To_Sort_A_Permutation
 
-🔗 **Problem Link:** [3950. Maximum K To Sort A Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/)
+🔗 **Problem Link:** [3950_Maximum_K_To_Sort_A_Permutation](https://leetcode.com/problems/3950_maximum_k_to_sort_a_permutation/)
 
 ---
 
