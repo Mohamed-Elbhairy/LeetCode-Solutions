@@ -1,6 +1,6 @@
-# 2496. Count Days Spent Together
+# 2496_Count_Days_Spent_Together
 
-🔗 **Problem Link:** [2496. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)
+🔗 **Problem Link:** [2496_Count_Days_Spent_Together](https://leetcode.com/problems/2496_count_days_spent_together/)
 
 ---
 
