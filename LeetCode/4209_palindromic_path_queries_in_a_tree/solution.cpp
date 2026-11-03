@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4209. Palindromic Path Queries In A Tree
+ * Problem Link: https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
+ */
+
 struct Tree {  // Euler tour: the subtree of x is tin[x] .. tout[x] - 1; LCA by a sparse table over the DFS order
     vector<int> parent, tin, tout, order;  // the root is its own parent; order: the nodes in DFS order
     vector<vector<int>> first;  // first[k][i]: the earliest parent among order[i .. i + 2^k - 1]

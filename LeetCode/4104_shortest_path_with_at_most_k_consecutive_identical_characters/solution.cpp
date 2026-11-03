@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4104. Shortest Path With At Most K Consecutive Identical Characters
+ * Problem Link: https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
+ */
+
 class Solution {
 public:
     int shortestPath(int n, vector<vector<int>>& edges, string labels, int k) {
