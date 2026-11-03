@@ -1,6 +1,6 @@
-# 4104. Shortest Path With At Most K Consecutive Identical Characters
+# 4104_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters
 
-🔗 **Problem Link:** [4104. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/)
+🔗 **Problem Link:** [4104_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters](https://leetcode.com/problems/4104_shortest_path_with_at_most_k_consecutive_identical_characters/)
 
 ---
 

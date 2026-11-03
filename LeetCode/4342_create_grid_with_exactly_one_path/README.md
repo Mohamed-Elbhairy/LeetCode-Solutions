@@ -1,6 +1,6 @@
-# 4342. Create Grid With Exactly One Path
+# 4342_Create_Grid_With_Exactly_One_Path
 
-🔗 **Problem Link:** [4342. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/)
+🔗 **Problem Link:** [4342_Create_Grid_With_Exactly_One_Path](https://leetcode.com/problems/4342_create_grid_with_exactly_one_path/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 3938. Twisted Mirror Path Count
+# 3938_Twisted_Mirror_Path_Count
 
-🔗 **Problem Link:** [3938. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)
+🔗 **Problem Link:** [3938_Twisted_Mirror_Path_Count](https://leetcode.com/problems/3938_twisted_mirror_path_count/)
 
 ---
 

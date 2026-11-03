@@ -1,6 +1,6 @@
-# 4209. Palindromic Path Queries In A Tree
+# 4209_Palindromic_Path_Queries_In_A_Tree
 
-🔗 **Problem Link:** [4209. Palindromic Path Queries In A Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/)
+🔗 **Problem Link:** [4209_Palindromic_Path_Queries_In_A_Tree](https://leetcode.com/problems/4209_palindromic_path_queries_in_a_tree/)
 
 ---
 

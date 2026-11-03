@@ -1,6 +1,6 @@
-# 0453. Minimum Moves To Equal Array Elements
+# 0453_Minimum_Moves_To_Equal_Array_Elements
 
-🔗 **Problem Link:** [0453. Minimum Moves To Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+🔗 **Problem Link:** [0453_Minimum_Moves_To_Equal_Array_Elements](https://leetcode.com/problems/0453_minimum_moves_to_equal_array_elements/)
 
 ---
 

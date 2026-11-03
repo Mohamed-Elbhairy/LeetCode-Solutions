@@ -1,6 +1,6 @@
-# 4205. Minimum Xor Path In A Grid
+# 4205_Minimum_Xor_Path_In_A_Grid
 
-🔗 **Problem Link:** [4205. Minimum Xor Path In A Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/)
+🔗 **Problem Link:** [4205_Minimum_Xor_Path_In_A_Grid](https://leetcode.com/problems/4205_minimum_xor_path_in_a_grid/)
 
 ---
 
