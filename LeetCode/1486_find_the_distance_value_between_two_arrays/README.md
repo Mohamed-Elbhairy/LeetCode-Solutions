@@ -1,6 +1,6 @@
-# 1486. Find The Distance Value Between Two Arrays
+# 1486_Find_The_Distance_Value_Between_Two_Arrays
 
-🔗 **Problem Link:** [1486. Find The Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+🔗 **Problem Link:** [1486_Find_The_Distance_Value_Between_Two_Arrays](https://leetcode.com/problems/1486_find_the_distance_value_between_two_arrays/)
 
 ---
 

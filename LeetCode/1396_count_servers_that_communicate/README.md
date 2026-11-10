@@ -1,6 +1,6 @@
-# 1396. Count Servers That Communicate
+# 1396_Count_Servers_That_Communicate
 
-🔗 **Problem Link:** [1396. Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+🔗 **Problem Link:** [1396_Count_Servers_That_Communicate](https://leetcode.com/problems/1396_count_servers_that_communicate/)
 
 ---
 

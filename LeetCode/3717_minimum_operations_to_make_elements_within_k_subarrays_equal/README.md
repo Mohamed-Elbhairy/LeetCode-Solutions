@@ -1,6 +1,6 @@
-# 3717. Minimum Operations To Make Elements Within K Subarrays Equal
+# 3717_Minimum_Operations_To_Make_Elements_Within_K_Subarrays_Equal
 
-🔗 **Problem Link:** [3717. Minimum Operations To Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/)
+🔗 **Problem Link:** [3717_Minimum_Operations_To_Make_Elements_Within_K_Subarrays_Equal](https://leetcode.com/problems/3717_minimum_operations_to_make_elements_within_k_subarrays_equal/)
 
 ---
 

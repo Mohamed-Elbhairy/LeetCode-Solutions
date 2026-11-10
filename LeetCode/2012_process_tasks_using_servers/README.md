@@ -1,6 +1,6 @@
-# 2012. Process Tasks Using Servers
+# 2012_Process_Tasks_Using_Servers
 
-🔗 **Problem Link:** [2012. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/)
+🔗 **Problem Link:** [2012_Process_Tasks_Using_Servers](https://leetcode.com/problems/2012_process_tasks_using_servers/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 2833. Count Zero Request Servers
+# 2833_Count_Zero_Request_Servers
 
-🔗 **Problem Link:** [2833. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/)
+🔗 **Problem Link:** [2833_Count_Zero_Request_Servers](https://leetcode.com/problems/2833_count_zero_request_servers/)
 
 ---
 
