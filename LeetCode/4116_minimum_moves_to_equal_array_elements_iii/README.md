@@ -1,6 +1,6 @@
-# 4116. Minimum Moves To Equal Array Elements Iii
+# 4116_Minimum_Moves_To_Equal_Array_Elements_Iii
 
-🔗 **Problem Link:** [4116. Minimum Moves To Equal Array Elements Iii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
+🔗 **Problem Link:** [4116_Minimum_Moves_To_Equal_Array_Elements_Iii](https://leetcode.com/problems/4116_minimum_moves_to_equal_array_elements_iii/)
 
 ---
 

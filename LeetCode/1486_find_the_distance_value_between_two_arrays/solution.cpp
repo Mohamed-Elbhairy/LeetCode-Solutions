@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1486. Find The Distance Value Between Two Arrays
+ * Problem Link: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
+ */
+
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {

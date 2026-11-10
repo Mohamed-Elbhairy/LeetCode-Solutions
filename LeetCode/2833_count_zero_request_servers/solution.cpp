@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 2833. Count Zero Request Servers
+ * Problem Link: https://leetcode.com/problems/count-zero-request-servers/
+ */
+
 class Solution {
 public:
     vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {

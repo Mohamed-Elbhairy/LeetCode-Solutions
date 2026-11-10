@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 3717. Minimum Operations To Make Elements Within K Subarrays Equal
+ * Problem Link: https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/
+ */
+
 class Solution {
 public:
     long long minOperations(vector<int>& nums, int x, int k) {

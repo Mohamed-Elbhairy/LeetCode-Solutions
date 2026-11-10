@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 1396. Count Servers That Communicate
+ * Problem Link: https://leetcode.com/problems/count-servers-that-communicate/
+ */
+
 class Solution {
 public:
     int countServers(vector<vector<int>>& grid) {
