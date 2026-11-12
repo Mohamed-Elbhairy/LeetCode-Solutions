@@ -1,3 +1,8 @@
+/*
+ * Problem Name: 4147. Minimum Cost To Acquire Required Items
+ * Problem Link: https://leetcode.com/problems/minimum-cost-to-acquire-required-items/
+ */
+
 class Solution {
 public:
     long long minimumCost(int cost1, int cost2, int costBoth, int need1,

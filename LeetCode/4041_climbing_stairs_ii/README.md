@@ -1,6 +1,6 @@
-# 4041. Climbing Stairs Ii
+# 4041_Climbing_Stairs_Ii
 
-🔗 **Problem Link:** [4041. Climbing Stairs Ii](https://leetcode.com/problems/climbing-stairs-ii/)
+🔗 **Problem Link:** [4041_Climbing_Stairs_Ii](https://leetcode.com/problems/4041_climbing_stairs_ii/)
 
 ---
 
